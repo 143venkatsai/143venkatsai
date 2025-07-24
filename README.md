@@ -9,9 +9,9 @@ I'm Pelluru Venkat Sai a passionate developer interested in designing, developin
 * Tools: Git, VS Code
 ### Projects 
 1. [Notes Manager] (https://personal-notes-manager-frontend-ctyx.vercel.app/)
-Developed a Notes Manager Application with Authentication Mechanism 
-  * **Tech Stack**: React.js, Node.js, Express.js, MongoDB
+Developed a Notes Manager Application with Authentication Mechanism
+**Tech Stack**: React.js, Node.js, Express.js, MongoDB
   
 2. [Nxt Trendz ( ECommerce Clone- Amazon, Flipkart)] (http://venkattrendzapp.ccbp.tech/)
 Developed a cutting-edge e-commerce platform inspired by Amazon and Flipkart.
-  * **Tech Stack**: React.js, CSS, Bootstrap, REST API Calls, Local Storage, JWT Token 
+**Tech Stack**: React.js, CSS, Bootstrap, REST API Calls, Local Storage, JWT Token 
